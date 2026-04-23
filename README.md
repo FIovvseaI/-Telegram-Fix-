@@ -1,4 +1,4 @@
-<img width="365" height="184" alt="image" src="https://github.com/user-attachments/assets/4a2ff763-3c5d-421b-ac54-18ec6bcb9e13" />
+<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/4a2ff763-3c5d-421b-ac54-18ec6bcb9e13" />
 
 Telegram Fix - это лучший локальный MTProto-прокси для Telegram на ПК, который ускоряет работу клиента Telegram, перенаправляя трафик. Данные передаются в зашифрованном виде.
 
